@@ -5,5 +5,5 @@ export default async function Page(){
     console.log(revenue);
 
     
-    return <p>Dashboard Page</p>
+    return <p>Dashboard Page ggfd</p>
 } 
